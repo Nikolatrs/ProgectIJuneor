@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ByCircle : MonoBehaviour
+public class MoveByCircle : MonoBehaviour
 {
     [SerializeField] private float _speedRotate;
     [SerializeField] private float _coefficientRotation;
